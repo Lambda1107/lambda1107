@@ -1,1 +1,72 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"李亦龙","email":"xiaoheis1107@outlook.com","mobile":"17673944870","github":"","zhihu":"","workExpYear":"","workPlace":"","positionTitle":""},"educationList":[{"edu_time":["2020.09.01","2024.06.30"],"school":"华南理工大学","major":"计算机科学与技术","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[],"skillList":[],"projectList":[{"project_name":"个人阅读计划系统","project_role":"后端开发及部署","project_desc":"一个允许用户上传pdf，并制定阅读计划，每天下发执行的系统。","project_content":"1. Golang+Gin框架搭建后端服务\n2. 对接某即时通讯程序提供的api，实现通过即时通讯软件完成pdf文件的上传和下发。\n3. 通过Mysql+Redis实现用户信息的存储和鉴权。"},{"project_name":"简易流媒体网站","project_role":"前后端开发及部署","project_desc":"一个允许用户上传视频，点赞视频，在线观看视频的网站。","project_content":"1. Golang+Gin框架搭建后端服务，并使用微服务架构，解耦视频上传服务，转码服务，播放服务。\n2. html+js+css+jQuery搭建web前端。\n3. 使用MySQL+Redis处理用户信息，缓冲点赞请求，完成用户鉴权。"}],"workList":[],"aboutme":{"aboutme_desc":"熟悉Python编程基础，了解flask框架。\n熟悉Golang语言，有使用Gin框架开发后端服务的经验。\n熟悉C++编程，对STL库有一定了解。\n了解Web前端开发，有使用Jquery开发Web前端的经验。\n了解make工具的使用，会使用make工具组织项目编译。\n熟练掌握git版本控制软件的使用。\n熟悉SQL语言，熟悉MySQL及postgreSQL数据库的基本操作。\n熟悉Bash的基本操作，熟悉linux操作系统的基本操作，了解操作系统底层知识。\n熟悉TCP/IP协议，了解套接字编程，了解并发编程，了解锁机制。\n了解docker的使用，会使用docker部署项目。\n对数据结构和算法知识有一定了解，并可以应用知识解决问题。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": true
+    },
+    "profile": {
+        "name": "李亦龙",
+        "email": "xiaoheis1107@outlook.com",
+        "mobile": "17673944870",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "",
+        "positionTitle": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2020.09.01",
+                "2024.06.30"
+            ],
+            "school": "华南理工大学",
+            "major": "计算机科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [
+        {
+            "work_time": ["2022.08.15"],
+            "company_name": "广州荔支网络技术有限公司",
+            "department_name": "运维部",
+            "work_desc": "运维研发实习生 负责云原生平台的开发",
+            "dataIndex": 0
+        }
+    ],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_time": "2022.08~2023.01",
+            "project_name": "混合云IRock",
+            "project_role": "后端开发",
+            "project_desc": "混合云是一款由荔枝运维团队自主研发，以业务为中心，清晰的视图让每个业务知道目前自己所在业务拥有多少IAAS资源，及资源的使用情况，业务通过平台实现资源自助管理，减少人肉运维，实现业务自助与成本优化。",
+            "project_content": "1. CDN、域名、DNS、证书四个产品的接入工作。独立完成框架搭建、供应商接入等工作 。为混合云产品提供了管理上述四个IAAS资源的能力。\n2. 重构ECS产品，使其更符合新加的需求。并提高稳定性，修复老版本bug。\n3. 参与框架设计，为小组使用的开发框架新增一个Redis缓存的包装模块，使小组成员更方便地使用Redis进行分布式缓存。",
+            "dataIndex": 0
+        },
+        {
+            "project_time": "2023.01~2023.03",
+            "project_name": "业务交付平台",
+            "project_role": "后端开发",
+            "project_desc": "业务交付平台是一款由荔枝基础架构团队和运维研发团队研发的PaaS工具。通过整合多款开源项目，以及依靠混合云IRock项目提供的IaaS交付能力，提供PaaS平台的能力。\n业务可以通过在交付平台上修改项目定义，快速获取IaaS资源、中间件资源，以及提供资源计费功能，可以为业务使用的资源生成账单。\n使用IaC作为基础思想，可以提供快速的环境迁移、复制能力。",
+            "project_content": "1. IaaS部分的资源交付方案设计与开发。\n2. 使用terraform和k8s operator为PaaS层和IaaS层提供IaC化的交互。"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "对docker、k8s、terraform等云原生工具有一定了解。有编写k8s operator和terraform provider的经验。\n对vxlan等sdn技术有一定了解。\n熟悉Python编程基础，熟悉flask框架。\n熟悉Golang语言，有使用Gin框架开发后端服务的经验。\n熟悉C++编程，对STL库有一定了解。\n熟练掌握git版本控制软件的使用。\n熟悉SQL语言，熟悉MySQL及postgreSQL数据库的基本操作。\n熟悉linux操作系统的基本操作，了解操作系统底层知识。\n\n个人特点\n具有较强的学习能力和团队协作能力，对技术的钻研具有强烈的兴趣。对待工作认真负责，能够承受一定的工作压力。\n交流较为主动，会主动与同事沟通技术方案。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
