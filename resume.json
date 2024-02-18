@@ -1,1 +1,72 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"李亦龙","email":"xiaoheis1107@outlook.com","mobile":"17673944870","github":"","zhihu":"","workExpYear":"","workPlace":"","positionTitle":""},"educationList":[{"edu_time":["2020.09.01","2024.06.30"],"school":"华南理工大学","major":"计算机科学与技术","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[{"work_time":"2022.08.15","company_name":"广州荔支网络技术有限公司","department_name":"运维部","work_desc":"运维研发实习生 负责云原生平台的开发","dataIndex":0}],"skillList":[],"projectList":[{"project_time":"2022.08~2023.01","project_name":"混合云IRock","project_role":"后端开发","project_desc":"混合云是一款由荔枝运维团队自主研发，以业务为中心，清晰的视图让每个业务知道目前自己所在业务拥有多少IAAS资源，及资源的使用情况，业务通过平台实现资源自助管理，减少人肉运维，实现业务自助与成本优化。","project_content":"1. CDN、域名、DNS、证书四个产品的接入工作。独立完成框架搭建、供应商接入等工作 。为混合云产品提供了管理上述四个IaaS资源的能力。\n2. 重构ECS产品，使其更符合新加的需求。并提高稳定性，修复老版本bug。\n3. 负责对Nginx进行封装，提供私有ALB部署。使用户能自助完成CDN、dns、alb、k8s service一系列配置。","dataIndex":0},{"project_time":"2023.01~2023.03","project_name":"业务交付平台","project_role":"后端开发","project_desc":"业务交付平台是一款由荔枝基础架构团队和运维研发团队研发的PaaS工具。通过整合多款开源项目，以及依靠混合云IRock项目提供的IaaS交付能力，提供PaaS平台的能力。\n业务可以通过在交付平台上修改项目定义，快速获取IaaS资源、中间件资源，以及提供资源计费功能，可以为业务使用的资源生成账单。\n使用IaC作为基础思想，可以提供快速的环境迁移、复制能力。","project_content":"1. IaaS部分的资源交付方案设计与开发。\n2. 使用terraform和k8s operator为PaaS层和IaaS层提供IaC化的交互。"}],"workList":[],"aboutme":{"aboutme_desc":"对docker、k8s、terraform等云原生工具有一定了解。有编写k8s operator和terraform provider的经验。\n熟悉Python编程基础，熟悉flask框架。\n熟悉Golang语言，有使用Gin框架开发后端服务的经验。\n熟悉C++编程，对STL库有一定了解。\n熟练掌握git版本控制软件的使用。\n熟悉SQL语言，熟悉MySQL及postgreSQL数据库的基本操作。\n熟悉linux操作系统的基本操作，了解操作系统底层知识。\n\n个人特点\n具有较强的学习能力和团队协作能力，对技术的钻研具有强烈的兴趣。对待工作认真负责，能够承受一定的工作压力。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"},"locales":{"en":{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"李亦龙","email":"xiaoheis1107@outlook.com","mobile":"17673944870","github":"","zhihu":"","workExpYear":"","workPlace":"","positionTitle":""},"educationList":[{"edu_time":["2020.09.01","2024.06.30"],"school":"华南理工大学","major":"计算机科学与技术","academic_degree":"本科","dataIndex":0}],"awardList":[],"workExpList":[{"work_time":"2022.08.15","company_name":"广州荔支网络技术有限公司","department_name":"运维部","work_desc":"运维研发实习生 负责云原生平台的开发","dataIndex":0}],"skillList":[],"projectList":[{"project_time":"2022.08~2023.01","project_name":"混合云IRock","project_role":"后端开发","project_desc":"混合云是一款由荔枝运维团队自主研发，以业务为中心，清晰的视图让每个业务知道目前自己所在业务拥有多少IAAS资源，及资源的使用情况，业务通过平台实现资源自助管理，减少人肉运维，实现业务自助与成本优化。","project_content":"1. CDN、域名、DNS、证书四个产品的接入工作。独立完成框架搭建、供应商接入等工作 。为混合云产品提供了管理上述四个IaaS资源的能力。\n2. 重构ECS产品，使其更符合新加的需求。并提高稳定性，修复老版本bug。\n3. 负责对Nginx进行封装，提供私有ALB部署。使用户能自助完成CDN、dns、alb、k8s service一系列配置。","dataIndex":0},{"project_time":"2023.01~2023.03","project_name":"业务交付平台","project_role":"后端开发","project_desc":"业务交付平台是一款由荔枝基础架构团队和运维研发团队研发的PaaS工具。通过整合多款开源项目，以及依靠混合云IRock项目提供的IaaS交付能力，提供PaaS平台的能力。\n业务可以通过在交付平台上修改项目定义，快速获取IaaS资源、中间件资源，以及提供资源计费功能，可以为业务使用的资源生成账单。\n使用IaC作为基础思想，可以提供快速的环境迁移、复制能力。","project_content":"1. IaaS部分的资源交付方案设计与开发。\n2. 使用terraform和k8s operator为PaaS层和IaaS层提供IaC化的交互。"}],"workList":[],"aboutme":{"aboutme_desc":"对docker、k8s、terraform等云原生工具有一定了解。有编写k8s operator和terraform provider的经验。\n熟悉Python编程基础，熟悉flask框架。\n熟悉Golang语言，有使用Goframe框架开发后端服务的经验。\n熟练掌握git版本控制软件的使用。\n熟悉SQL语言，熟悉MySQL数据库的基本操作。\n熟悉linux操作系统的基本操作，了解操作系统底层知识。\n\n个人特点\n具有较强的学习能力和团队协作能力，对技术的钻研具有强烈的兴趣。对待工作认真负责，能够承受一定的工作压力。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}}}
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": true
+    },
+    "profile": {
+        "name": "李亦龙",
+        "email": "xiaoheis1107@outlook.com",
+        "mobile": "17673944870",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "",
+        "positionTitle": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2020.09.01",
+                "2024.06.30"
+            ],
+            "school": "华南理工大学",
+            "major": "计算机科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [
+        {
+            "work_time": "2022.08.15~2023.07",
+            "company_name": "广州荔支网络技术有限公司",
+            "department_name": "运维部",
+            "work_desc": "运维研发实习生 负责云原生平台的开发与运维",
+            "dataIndex": 0
+        }
+    ],
+    "skillList": [],
+    "projectList": [
+        {
+            "project_time": "2022.08~2023.06",
+            "project_name": "混合云IRock",
+            "project_role": "后端开发",
+            "project_desc": "混合云一个面向企业内部的私有云平台。提供业务基础设施的自助创建，管理等工作。在企业内部作为业务研发人员与运维基础设施的桥梁，提供计算、存储、网络等资源。依赖于IDC机房以及公有云，在企业内部提供类似于公有云平台的用户体验。",
+            "project_content": "1. 将混合云平台接入公司内的通用计费系统，配合计费平台部门完善资源计费和成本分析\n2. 通过落地KubeVirt开源项目，基于K8S和KVM，以及KubeRouter网络插件，在IDC机房搭建私有弹性计算服务。接入混合云平台提供用户使用。\n3. 通过接入公有云平台的API，为混合云提供域名和DNS产品服务。\n4. 封装Nginx组件，为混合云提供ALB资源，用于业务接入。",
+            "dataIndex": 0
+        },
+        {
+            "project_time": "2023.01~2023.06",
+            "project_name": "作业平台",
+            "project_role": "后端开发",
+            "project_desc": "作业平台由Golang语言开发，通过中心控制器，和分布在每台计算实例上的执行Agent实现简单的作业流程执行与调度。同时提供了和中心控制器集成在一起的简单脚本执行器，可用于执行Python、Shell脚本，或发起HTTP请求。提供定时任务执行和一次性执行两种执行模式（Cron和At模式）。使用Mysql作为任务记录和任务模版的存储，使用Redis实现任务的延迟队列以及执行缓存，并实现中心控制器注册和选主。",
+            "project_content": "1. 使用Redis分布式锁机制实现中心控制器选主, 使用Redis ZSET实现定时任务执行的延迟队列。\n2. 通过Redis缓存待执行任务，实现高效的Worker任务抢占调度。\n3. 实现任务状态检查，实现执行超时检查逻辑。\n4. 在中心调度器集成简单的任务网关，用于Agent获取任务以及回报任务状态。"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "对docker、k8s、terraform等云原生工具有一定了解。有编写k8s operator和terraform provider的经验。\n熟悉Python编程基础，熟悉flask框架。\n熟悉Golang语言，有使用Goframe和Gin框架开发后端服务的经验。\n熟练掌握git版本控制软件的使用。\n熟悉SQL语言，熟悉MySQL的基本操作。\n熟悉linux操作系统的基本操作，了解操作系统底层知识。\n\n个人特点\n学习能力强，倾向于项目驱动学习。对操作系统，计算机网络等底层知识兴趣浓厚。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
